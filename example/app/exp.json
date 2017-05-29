@@ -1,0 +1,22 @@
+{
+  "name": "My New Project",
+  "description": "No description",
+  "slug": "my-new-project",
+  "privacy": "public",
+  "sdkVersion": "17.0.0",
+  "version": "1.0.0",
+  "orientation": "portrait",
+  "primaryColor": "#cccccc",
+  "notification": {
+    "color": "#000000"
+  },
+  "loading": {
+    "hideExponentText": false
+  },
+  "packagerOpts": {
+    "assetExts": ["ttf"]
+  },
+  "ios": {
+    "supportsTablet": true
+  }
+}

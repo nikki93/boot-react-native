@@ -46,8 +46,7 @@
 (deftask dev
   "Build app and watch for changes"
   []
-  (comp (patch-rn)
-        (watch)
+  (comp (watch)
         (build)
         (speak)))
 
